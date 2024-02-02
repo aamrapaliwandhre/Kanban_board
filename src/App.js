@@ -137,7 +137,7 @@ function App() {
               dragEnded={dragEnded}
               dragEntered={dragEntered}
               updateCard={updateCard}
-            />
+            /> 
           ))}
           <div className="app_boards_last">
             <Editable
